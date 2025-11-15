@@ -1,4 +1,5 @@
-langchain
+#langchain
+
 langchain-core
 langchain-community
 pypdf
@@ -10,4 +11,13 @@ langchain-groq
 python-dotenv
 typesense
 langchain_openai
-langgraph
+
+
+# BackEnd API
+
+FAST API
+
+# Data PreProcessing
+
+Numpy
+pandas
